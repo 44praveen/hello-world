@@ -219,8 +219,8 @@
   </prerequisites>
  <distributionManagement>
     <snapshotRepository>
-      <id>maven-snapshots</id>
-      <url>http://172.24.1.93:8081/repository/maven-snapshots/</url>
+      <id>Devops-repo</id>
+      <url>http://172.24.1.93:8081/repository/Devops-repo/</url>
     </snapshotRepository>
  </distributionManagement>
 </project>
